@@ -1,4 +1,5 @@
 {
+  "name": "@colabo-3rd-party/snowpack-plugin-starter-template",
   "license": "MIT",
   "scripts": {
     "build": "pika build",
